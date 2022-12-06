@@ -42,7 +42,7 @@
 
 ---
 
-![](https://visitor-badge.glitch.me/badge?page_id=bouboudev.bouboudev)
+![](https://visitor-badge.glitch.me/badge?page_id=hayk.gabrielyan)
 
 [website]: https://github.com/hayk-gabrielyan
 [linkedin]: https://www.linkedin.com/in/hayk-gabrielyan-aa6b71216/
