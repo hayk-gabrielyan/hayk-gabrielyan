@@ -7,7 +7,7 @@
 - I'm a graphic designer !
 - 📖 Student since june 2022 <br> at school of numeric "LA PLATEFORME" Marseille
   <br>🧑‍💻 Web & mobile web developer
-- 🔎 I am looking for a work-study contract
+- 🔎 I'm looking for a work-study contract
       for the period from March to August 2023 which will help me to continue my studies and to acquire
       professional experience during my training.
 
