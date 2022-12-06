@@ -4,9 +4,9 @@
 
 ## I'm a Full-Stack Developer Junior based in Marseille ! <img  alt="Visual Studio Code" width="40px" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" />
 
-- I'm a graphic designer !
+- I'm also a graphic designer with 8 years of professional experiance !
 - 📖 Student since june 2022 <br> at school of numeric "LA PLATEFORME" Marseille
-  <br>🧑‍💻 Web & mobile web developer
+  <br> at curriculum  of Web & mobile web developer🧑‍💻
 - 🔎 I'm looking for a work-study contract
       for the period from March to August 2023 which will help me to continue my studies and to acquire
       professional experience during my training.
@@ -32,6 +32,7 @@
 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)&nbsp;
