@@ -5,10 +5,10 @@
 ## I'm a Full-Stack Developer Junior based in Marseille ! <img  alt="Visual Studio Code" width="40px" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" />
 
 - I'm a graphic designer !
-- 📖 Student since june 2022 at school of numeric "LA PLATEFORME" Marseille
-  🧑‍💻 Web & mobile web developer
+- 📖 Student since june 2022 at school of numeric <br> "LA PLATEFORME" Marseille
+  <br>🧑‍💻 Web & mobile web developer
 - 🔎 I am looking for a work-study contract
-      for the period from March to August 2023 which will help me to continue my studies, to acquire
+      for the period from March to August 2023 which will help me to continue my studies and to acquire
       professional experience during my training.
 
 ### Connect with me:
