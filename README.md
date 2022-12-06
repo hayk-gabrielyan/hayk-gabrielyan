@@ -13,13 +13,9 @@
 
 ### Connect with me:
 
-
-
 [![Website](https://img.shields.io/badge/My%20Website%20--&?style=for-the-badge&logo=google&color=black)](https://hayk-gabrielyan.students-laplateforme.io)
 
 [![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=Follow%20%40Hayk_Gabrielyan&logo=linkedin&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Hayk_Gabrielyan%2F)](https://www.linkedin.com/in/hayk-gabrielyan-aa6b71216/)
-
-
 
 ### Languages and Tools:
 
@@ -32,14 +28,12 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)&nbsp;
 
 
-
-
 ### Softwares:
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)&nbsp;
 <br />
 
